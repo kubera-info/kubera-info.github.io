@@ -1,1 +1,1 @@
-# kubrera-info
+# Repositories of Włodzimierz O. Kubera
